@@ -1,0 +1,2 @@
+# Allow jon to work
+jon ALL=(root) NOPASSWD: /usr/bin/dpkg *

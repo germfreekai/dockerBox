@@ -1,0 +1,2 @@
+# Allow jon to work
+jon ALL=(root) NOPASSWD: /home/jon/integrity_vuln, /home/jon/password_vuln, /home/jon/integrity_vuln_protected, /home/jon/password_vuln_protected, /usr/bin/flags, /usr/bin/checksec
